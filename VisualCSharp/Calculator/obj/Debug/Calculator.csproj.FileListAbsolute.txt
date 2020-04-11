@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Calculator\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Calculator\bin\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Calculator\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Calculator\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Calculator\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Calculator\obj\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Calculator\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Calculator\bin\Debug\RestSharp.dll
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Calculator\bin\Debug\YandexLinguistics.NET.dll
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Calculator\bin\Debug\RestSharp.xml
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache

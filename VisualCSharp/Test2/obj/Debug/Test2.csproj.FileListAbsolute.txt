@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Test2\bin\Debug\Test2.exe.config
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Test2\bin\Debug\Test2.exe
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Test2\bin\Debug\Test2.pdb
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Test2\obj\Debug\Test2.Form1.resources
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Test2\obj\Debug\Test2.Properties.Resources.resources
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Test2\obj\Debug\Test2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Test2\obj\Debug\Test2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Test2\obj\Debug\Test2.exe
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Test2\obj\Debug\Test2.pdb
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Test2\obj\Debug\Test2.ListItem.resources
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Test2\bin\Debug\Id3Lib.pdb
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Test2\bin\Debug\Mp3Lib.pdb
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Test2\obj\Debug\Test2.csproj.CopyComplete
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Test2\obj\Debug\Test2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Test2\obj\Debug\Test2.Resource1.resources

@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\LoginFormV_Hov\bin\Debug\LoginFormV_Hov.exe.config
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\LoginFormV_Hov\bin\Debug\LoginFormV_Hov.exe
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\LoginFormV_Hov\bin\Debug\LoginFormV_Hov.pdb
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\LoginFormV_Hov\obj\Debug\LoginFormV_Hov.Login_Form.resources
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\LoginFormV_Hov\obj\Debug\LoginFormV_Hov.Properties.Resources.resources
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\LoginFormV_Hov\obj\Debug\LoginFormV_Hov.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\LoginFormV_Hov\obj\Debug\LoginFormV_Hov.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\LoginFormV_Hov\obj\Debug\LoginFormV_Hov.exe
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\LoginFormV_Hov\obj\Debug\LoginFormV_Hov.pdb
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\LoginFormV_Hov\obj\Debug\LoginFormV_Hov.MainForm.resources
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\LoginFormV_Hov\obj\Debug\LoginFormV_Hov.Registration.resources
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\LoginFormV_Hov\obj\Debug\LoginFormV_Hov.csprojAssemblyReference.cache

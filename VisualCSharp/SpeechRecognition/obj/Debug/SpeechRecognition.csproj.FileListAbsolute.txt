@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\SpeechRecognition\bin\Debug\SpeechRecognition.exe.config
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\SpeechRecognition\bin\Debug\SpeechRecognition.exe
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\SpeechRecognition\bin\Debug\SpeechRecognition.pdb
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\SpeechRecognition\bin\Debug\Microsoft.Speech.dll
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\SpeechRecognition\obj\Debug\SpeechRecognition.Form1.resources
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\SpeechRecognition\obj\Debug\SpeechRecognition.Properties.Resources.resources
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.CopyComplete
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\SpeechRecognition\obj\Debug\SpeechRecognition.exe
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\SpeechRecognition\obj\Debug\SpeechRecognition.pdb
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\SpeechRecognition\obj\Debug\SpeechRecognition.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Threading\bin\Debug\Threading.exe.config
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Threading\bin\Debug\Threading.exe
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Threading\bin\Debug\Threading.pdb
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Threading\obj\Debug\Threading.Form1.resources
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Threading\obj\Debug\Threading.Properties.Resources.resources
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Threading\obj\Debug\Threading.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Threading\obj\Debug\Threading.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Threading\obj\Debug\Threading.exe
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Threading\obj\Debug\Threading.pdb
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Threading\obj\Debug\Threading.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Test1\bin\Debug\Test1.exe.config
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Test1\bin\Debug\Test1.exe
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Test1\bin\Debug\Test1.pdb
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Test1\obj\Debug\Test1.Form1.resources
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Test1\obj\Debug\Test1.Properties.Resources.resources
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Test1\obj\Debug\Test1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Test1\obj\Debug\Test1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Test1\obj\Debug\Test1.exe
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\Test1\obj\Debug\Test1.pdb

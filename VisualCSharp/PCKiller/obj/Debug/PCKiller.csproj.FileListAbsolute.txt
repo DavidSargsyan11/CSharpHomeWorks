@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\PCKiller\bin\Debug\PCKiller.exe.config
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\PCKiller\bin\Debug\PCKiller.exe
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\PCKiller\bin\Debug\PCKiller.pdb
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\PCKiller\obj\Debug\PCKiller.Form1.resources
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\PCKiller\obj\Debug\PCKiller.Properties.Resources.resources
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\PCKiller\obj\Debug\PCKiller.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\PCKiller\obj\Debug\PCKiller.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\PCKiller\obj\Debug\PCKiller.exe
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\PCKiller\obj\Debug\PCKiller.pdb
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\PCKiller\obj\Debug\PCKiller.csprojAssemblyReference.cache

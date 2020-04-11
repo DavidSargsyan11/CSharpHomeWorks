@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\TempClock\bin\Debug\TempClock.exe.config
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\TempClock\bin\Debug\TempClock.exe
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\TempClock\bin\Debug\TempClock.pdb
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\TempClock\obj\Debug\TempClock.Form1.resources
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\TempClock\obj\Debug\TempClock.Properties.Resources.resources
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\TempClock\obj\Debug\TempClock.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\TempClock\obj\Debug\TempClock.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\TempClock\obj\Debug\TempClock.exe
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\TempClock\obj\Debug\TempClock.pdb
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\TempClock\obj\Debug\TempClock.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\ContextMenu\bin\Debug\ContextMenu.exe.config
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\ContextMenu\bin\Debug\ContextMenu.exe
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\ContextMenu\bin\Debug\ContextMenu.pdb
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\ContextMenu\obj\Debug\ContextMenu.Form1.resources
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\ContextMenu\obj\Debug\ContextMenu.Properties.Resources.resources
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\ContextMenu\obj\Debug\ContextMenu.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\ContextMenu\obj\Debug\ContextMenu.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\ContextMenu\obj\Debug\ContextMenu.exe
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\ContextMenu\obj\Debug\ContextMenu.pdb
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\ContextMenu\bin\Debug\RestSharp.dll
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\ContextMenu\bin\Debug\YandexLinguistics.NET.dll
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\ContextMenu\bin\Debug\RestSharp.xml
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\ContextMenu\obj\Debug\ContextMenu.csproj.CopyComplete
+C:\Users\User\Desktop\Programing\C#\VisualCSharp\ContextMenu\obj\Debug\ContextMenu.csprojAssemblyReference.cache
